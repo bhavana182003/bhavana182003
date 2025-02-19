@@ -1,9 +1,15 @@
 👋 Hi, I’m Matam Bhavana 
+
 👀 I’m interested in Flutter, Web Development, and Cybersecurity
-🌱 I’m currently learning Flutter and diving deeper into cybersecurit
+
+🌱 I’m currently learning Flutter and diving deeper into cybersecurity
+
 🤝 I’m looking to collaborate on open-source projects related to Flutter and security
+
 📫 How to reach me: bhavanamatam61@gmail.com
+
 😄 Pronouns: she/her
+
 ⚡ Fun fact: I love debugging more than coding (sometimes!😅)
 
 
