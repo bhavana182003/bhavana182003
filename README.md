@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/matambhavana**
 
-- 📄 Know more about me [https://pdf.ac/35dE8F](https://pdf.ac/35dE8F)
+- 📄 Know more about me https://drive.google.com/file/d/1exnKJlBVwZgr__9Rc_0MWOBg_4yuZNSR/view?usp=drivesdk
 
 - ⚡ Fun fact **I love debugging more than coding (sometimes!😅)**
 
